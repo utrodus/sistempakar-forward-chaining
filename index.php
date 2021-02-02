@@ -194,22 +194,20 @@
                     </p>
                     <ol>
                       <li>
-                        Bau mulut.
+                        Sakit gigi
                       </li>
                       <li>
-                        Gusi bengkak, merah dan berdarah
+                        Nyeri ringan hingga tajam saat
+                        mengonsumsi makanan manis
                       </li>
                       <li>
-                        Gingival berkaratin, gaung luka diantara
-                        gigi dan gusi
+                        Noda berwarna cokelat, hitam atau putih
+                        pada permukaan gigi
+                      </li>
+                      <li>
+                        Nyeri saat menggigit makanan
+                      </li>
 
-                      </li>
-                      <li>
-                        Pembesaran limfoid di kepala, leher, atau
-                        rahang
-                      </li>
-                      <li>Demam</li>
-                      <li>Nyeri gusi</li>
                     </ol>
                   </div>
 
@@ -219,28 +217,37 @@
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>Karang Gigi</h3>
-                    <p class="font-italic">Karang gigi adalah kondisi di mana terdapat lapisan seperti kotoran yang terletak di gigi dan sulit dihilangkan meski telah dibersihkan atau disikat. Karang gigi disebabkan oleh adanya plak yang mengeras dan tidak mendapat penanganan. Plak itu sendiri adalah lapisan licin dan tipis pada gigi yang terbentuk akibat adanya sisa-sisa makanan yang tertinggal di gigi.
+                    <p class="font-italic">Karang gigi adalah kondisi di mana terdapat lapisan seperti kotoran yang terletak
+                      di gigi dan sulit dihilangkan meski telah dibersihkan atau disikat.
+                      Karang gigi disebabkan oleh adanya plak yang mengeras dan tidak mendapat penanganan. Plak itu sendiri adalah lapisan
+                      licin dan tipis pada gigi yang terbentuk akibat adanya sisa-sisa makanan yang tertinggal di gigi.
                     <p>
                       Gejala Karang Gigi :
                     </p>
                     <ol>
                       <li>
-                        Bau mulut.
+                        Bau mulut
                       </li>
                       <li>
-                        Gusi bengkak, merah dan berdarah
+                        Gusi berdarah dan kemerahan
                       </li>
                       <li>
-                        Gingival berkaratin, gaung luka diantara
-                        gigi dan gusi
-
+                        Gusi membengkak dan atau bernanah
                       </li>
                       <li>
-                        Pembesaran limfoid di kepala, leher, atau
-                        rahang
+                        Gusi melorot atau gigi tampak menjadi
+                        panjang
                       </li>
-                      <li>Demam</li>
-                      <li>Nyeri gusi</li>
+                      <li>
+                        Gigi goyang dan sensitive
+                      </li>
+                      <li>
+                        Gigi menjadi meregang (timbul celahcelah diantara gigi)
+                      </li>
+                      <li>
+                        Gigi menjadi linu padahal tidak ada yang
+                        berlubang
+                      </li>
                     </ol>
                   </div>
 
@@ -257,22 +264,19 @@
                     </p>
                     <ol>
                       <li>
-                        Bau mulut.
+                        Hilangnya nafsu makan
                       </li>
                       <li>
-                        Gusi bengkak, merah dan berdarah
+                        Terdapat luka yang cukup besar dimulut
                       </li>
                       <li>
-                        Gingival berkaratin, gaung luka diantara
-                        gigi dan gusi
-
+                        Luka biasanya terjadi beberapa kali pada
+                        area yang sama
                       </li>
                       <li>
-                        Pembesaran limfoid di kepala, leher, atau
-                        rahang
+                        Luka menyebar ke bagian luar bibir
                       </li>
-                      <li>Demam</li>
-                      <li>Nyeri gusi</li>
+                      <li>Tidak dapat makan dan minum</li>
                     </ol>
                   </div>
 
@@ -285,26 +289,29 @@
                     <p class="font-italic">Abses gigi adalah terbentuknya kantung atau benjolan berisi nanah pada gigi. Abses gigi disebabkan oleh infeksi bakteri. Kondisi ini bisa muncul di sekitar akar gigi maupun di gusi.
                     </p>
                     <p>
-                      Gejala Karang Gigi :
+                      Gejala Abses Periodental :
                     </p>
                     <ol>
                       <li>
                         Bau mulut.
                       </li>
                       <li>
-                        Gusi bengkak, merah dan berdarah
+                        Rasa pahit dimulut
                       </li>
                       <li>
-                        Gingival berkaratin, gaung luka diantara
-                        gigi dan gusi
-
+                        Gelisah
                       </li>
                       <li>
-                        Pembesaran limfoid di kepala, leher, atau
-                        rahang
+                        Kelelahan
                       </li>
                       <li>Demam</li>
-                      <li>Nyeri gusi</li>
+                      <li>Gusi mudah berdarah</li>
+                      <li>Terdapat kantung nanah yang seperti
+                        benjolan dengan warna kuning</li>
+                      <li>Kelenjer getah bening di bawah rahang
+                        membengkak</li>
+                      <li>Mengunyah dan menelan makanan
+                        menyebabkan rasa nyeri</li>
                     </ol>
                   </div>
 
@@ -316,29 +323,27 @@
                     <h3>Candidas Oral</h3>
                     <p class="font-italic">Candidiasis atau kandidiasis adalah infeksi jamur yang disebabkan oleh jamur Candida albicans. Infeksi jamur ini biasanya terjadi di kulit, mulut, dan organ intim. Jika tidak mendapatkan penanganan, infeksi akibat jamur ini bisa menyebar ke bagian tubuh lain, seperti usus, ginjal, jantung, dan otak.
                     <p>
-                      Gejala Karang Gigi :
+                      Gejala Candidas Oral :
                     </p>
                     <ol>
                       <li>
-                        Bau mulut.
+                        Pecah-pecah dan kemerahan pada sudut
+                        mulut
                       </li>
                       <li>
-                        Gusi bengkak, merah dan berdarah
+                        Muncul bintik-bintik kuning, putih atau
+                        krem di dalam mulut
                       </li>
                       <li>
-                        Gingival berkaratin, gaung luka diantara
-                        gigi dan gusi
-
+                        Sedikit pendarahan apabila lesi tergores
                       </li>
                       <li>
-                        Pembesaran limfoid di kepala, leher, atau
-                        rahang
+                        Lesi menyerupai keju
                       </li>
-                      <li>Demam</li>
-                      <li>Nyeri gusi</li>
+                      <li>Di dalam mulut seperti kapas</li>
+                      <li>Kehilangan selera makan</li>
                     </ol>
                   </div>
-
                 </div>
               </div>
               <div class="tab-pane" id="tab-7">
@@ -347,57 +352,63 @@
                     <h3>Trench Mouth</h3>
                     <p class="font-italic">Trench mouth adalah jenis dari gingivitis parah yang menyebabkan rasa sakit, infeksi, dan perdarahan pada gusi. Trench mouth umum terjadi di negara-negara berkembang yang memiliki gizi serta kondisi hidup yang buruk.
                     <p>
-                      Gejala Karang Gigi :
+                      Gejala Trench Mouth :
                     </p>
                     <ol>
                       <li>
                         Bau mulut.
                       </li>
                       <li>
-                        Gusi bengkak, merah dan berdarah
+                        Gelisah
                       </li>
                       <li>
-                        Gingival berkaratin, gaung luka diantara
-                        gigi dan gusi
+                        Kelelahan
+                      </li>
+                      <li>
+                        Demam
+                      </li>
+                      <li>Gusi mudah berdarah
+                      </li>
+                      <li>Kelenjer getah bening di bawah rahang
+                        Membengkak
+                      </li>
+                      <li>
+                        Mengunyah dan menelan makanan
+                        menyebabkan rasa nyeri
+                      </li>
+                      <li>
+                        Ujung-ujung gusi yang terletak diantara
+                        dua gigi mengalami pengikisan
 
                       </li>
-                      <li>
-                        Pembesaran limfoid di kepala, leher, atau
-                        rahang
-                      </li>
-                      <li>Demam</li>
-                      <li>Nyeri gusi</li>
                     </ol>
                   </div>
-
                 </div>
               </div>
+
               <div class="tab-pane" id="tab-8">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>Gigi Sensitif</h3>
                     <p class="font-italic">Gigi sensitif adalah kondisi ketika muncul sensasi ngilu dan nyeri pada gigi. Sensasi tersebut muncul sebagai respons terhadap sejumlah kondisi, misalnya akibat makan atau minum yang panas atau dingin. Gigi sensitif dapat terjadi sementara atau dalam jangka panjang, baik pada satu gigi maupun beberapa gigi.
                     <p>
-                      Gejala Karang Gigi :
+                      Gejala Gigi Sensitif :
                     </p>
                     <ol>
                       <li>
-                        Bau mulut.
+                        Rasa sakit dan tidak nyaman pada mulut
+                        saat makan makanan manis atau asam
                       </li>
                       <li>
-                        Gusi bengkak, merah dan berdarah
+                        Rasa tidak nyaman pada saat cuaca dingin
                       </li>
                       <li>
-                        Gingival berkaratin, gaung luka diantara
-                        gigi dan gusi
+                        Sakit pada saat menyikat gigi
+                      </li>
+                      <li>
+                        Gusi menurun
+                      </li>
 
-                      </li>
-                      <li>
-                        Pembesaran limfoid di kepala, leher, atau
-                        rahang
-                      </li>
-                      <li>Demam</li>
-                      <li>Nyeri gusi</li>
                     </ol>
                   </div>
 
