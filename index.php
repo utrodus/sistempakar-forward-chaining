@@ -36,7 +36,7 @@
         </ul>
       </nav><!-- .nav-menu -->
 
-      <a href="#appointment" class="appointment-btn scrollto">Mulai Konsultasi</a>
+      <a href="form-data-diri.php" class="appointment-btn scrollto">Mulai Konsultasi</a>
 
     </div>
   </header><!-- End Header -->
@@ -46,14 +46,14 @@
     <div class="container">
       <h1>Sistem Pakar</h1>
       <h2>Diagnosis Penyakit Gigi dan Mulut Dengan <br>Forward Chainning</h2>
-      <a href="#about" class="btn-get-started scrollto">Mulai Konsultasi</a>
+      <a href="form-data-diri.php" class="btn-get-started scrollto">Mulai Konsultasi</a>
     </div>
   </section><!-- End Hero -->
 
   <main id="main">
 
     <!-- ======= Why Us Section ======= -->
-    <section id="about" class="why-us">
+    <section id="about" class="why-us mt-5">
       <div class="container">
 
         <div class="row">
