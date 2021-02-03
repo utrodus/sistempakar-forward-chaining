@@ -29,30 +29,23 @@
       <h2>Isi Data Pribadi</h2>
       <p>Silahkan isi Data Pribadi</p>
     </div>
+    <div class="col-6 mx-auto">
+      <form action="save_datadiri.php" method="post" role="form">
+        <div class="form-row">
+          <div class="col-12 form-group">
+            <input type="text" name="name" class="form-control" id="name" placeholder="Nama Anda" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+            <div class="validate"></div>
+          </div>
+        </div>
 
-    <form action="save_datadiri.php" method="post" role="form">
-      <div class="form-row">
-        <div class="col-md-4 form-group">
-          <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+        <div class="form-group">
+          <textarea class="form-control" name="alamat" rows="3" placeholder="Alamat Anda" data-rule="minlen:4" data-msg="Please enter at least 4 chars"></textarea>
           <div class="validate"></div>
         </div>
-        <div class="col-md-4 form-group">
-          <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email">
-          <div class="validate"></div>
-        </div>
-        <div class="col-md-4 form-group">
-          <input type="tel" class="form-control" name="phone" id="phone" placeholder="Your Phone" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
-          <div class="validate"></div>
-        </div>
-      </div>
 
-      <div class="form-group">
-        <textarea class="form-control" name="alamat" rows="3" placeholder="Alamat" data-rule="minlen:4" data-msg="Please enter at least 4 chars"></textarea>
-        <div class="validate"></div>
-      </div>
-
-      <div class="text-center"><button type="submit" value="DATA_DIRI" class="btn btn-primary mt-3">Konsultasi Sekarang</button></div>
-    </form>
+        <div class="text-center"><button type="submit" value="DATA_DIRI" class="btn btn-primary mt-3" style="min-width: 44px; min-height:44px">Konsultasi Sekarang</button></div>
+      </form>
+    </div>
 
   </div>
 </section><!-- End Appointment Section -->

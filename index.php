@@ -114,7 +114,7 @@
           <h2>Jenis penyakit gigi dan mulut </h2>
           <p>
             Jenis penyakit gigi dan mulut ini sangat
-            banyak, namun pada aplikasi ini hanya terdapat 8
+            banyak, namun pada aplikasi ini hanya terdapat 4
             penyakit saja.
           </p>
         </div>
@@ -134,18 +134,7 @@
               <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#tab-4">Stomatitis</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tab-5">Abses Periodental</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tab-6">Candidas Oral</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tab-7">Trench Mouth</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tab-8">Gigi Sensitif</a>
-              </li>
+
             </ul>
           </div>
           <div class="col-lg-9 mt-5 mt-lg-0">
@@ -282,7 +271,7 @@
 
                 </div>
               </div>
-              <div class="tab-pane" id="tab-5">
+              <!-- <div class="tab-pane" id="tab-5">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>Abses Periodental</h3>
@@ -384,9 +373,9 @@
                     </ol>
                   </div>
                 </div>
-              </div>
+              </div> -->
 
-              <div class="tab-pane" id="tab-8">
+              <!-- <div class="tab-pane" id="tab-8">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>Gigi Sensitif</h3>
@@ -413,7 +402,7 @@
                   </div>
 
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
